@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, PHP, and SQL
 - 🌱 I’m currently learning .NET Framework to Core Conversion and Upgrading
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: I am the drummer for [Cardia](instagram.com/cardia.bne)! Check us out on [Spotify](https://open.spotify.com/artist/0lUgtR2tWuQakXsWsKOKAn)
+- ⚡ Fun fact: I am the drummer for [Cardia](https://instagram.com/cardia.bne)! Check us out on [Spotify](https://open.spotify.com/artist/0lUgtR2tWuQakXsWsKOKAn)
 
 <!---
 cmcculloch-ivolve/cmcculloch-ivolve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
